@@ -1,4 +1,3 @@
-include "main.i"
 #include <unistd.h>
 
 /**
